@@ -34,7 +34,7 @@ location: "Somewhere between the void and the mainframe."
 
 [![Neon Grid](https://img.shields.io/badge/NEON_GRID-010101?style=for-the-badge&logo=matrix&logoColor=00ff00)](https://github.com/CrypticTM99)  
 [![Data Stream](https://img.shields.io/badge/DATA_STREAM-FF00FF?style=for-the-badge&logo=linux&logoColor=white)](https://twitch.tv/crypt1cgamingtv)  
-[![Encrypted Archive](https://img.shields.io/badge/ARCHIVE%20UPLINK-0033cc?style=for-the-badge&logo=itch.io&logoColor=white)](https://cryptictm99.itch.io/)  
+[![Encrypted Archive](https://img.shields.io/badge/ARCHIVE%20UPLINK-0033cc?style=for-the-badge&logo=itch.io&logoColor=white)](https://cryptictm.itch.io/)  
 
 ```sh
 # Transmission Initialized...

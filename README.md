@@ -14,7 +14,7 @@ location: "Somewhere between the void and the mainframe."
 {
     "projects": [
         "RPG Maker VX Ace Scripts",
-        "FiveM Scripts for QB-core",
+        "FiveM Scripts for QB-core and ESX",
         "Encrypted Lore Networks",
         "Experimental Builds from the [Archive]"
     ],

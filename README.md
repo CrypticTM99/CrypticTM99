@@ -14,14 +14,17 @@ location: "Somewhere between the void and the mainframe."
 {
     "projects": [
         "RPG Maker VX Ace Scripts",
-        "FiveM Scripts for QB-core and ESX",
+        "ASCII RPG + ToonScape (Batch Runescape)",
+        "TDefense + TowerDefenseAP"
+        "Privacy_Search(Tor enhanced client)"
         "Encrypted Lore Networks",
         "Experimental Builds from the [Archive]"
     ],
     "focus": [
         "Game Dev",
         "Mod Scripting",
-        "Procedural Generation",
+        "Procedural Generation and raycasting",
+        "GamesDoneQuick platform"
         "Narrative Engineering"
     ],
     "status": "Bootstrapping lemon shards."
@@ -39,8 +42,8 @@ location: "Somewhere between the void and the mainframe."
 ```sh
 # Transmission Initialized...
 > Protocol Status: ACTIVE
-> System Stability: [ █ █ █ █ █ █ █ ░ ░ ░ ]
-> AI Response: "Standing by."
+> System Stability: [ █ █ █ █ █ █ █ █ ░ ░ ░ ░ ]
+> AI Response: "Standing by. Carl broke it again"
 ```
 
 ---
@@ -51,7 +54,7 @@ location: "Somewhere between the void and the mainframe."
 01010100 01101000 01101001 01110011 00100000 01101101 01100001 01111001 
 01101110 01101111 01110100 00100000 01100010 01100101 00100000 01110010 
 01100101 01100001 01101100 00101100 00100000 01100010 01110101 01110100 
-00100000 01101001 01110100 00100000 01101001 01110011 00101110
+00100000 01101001 01110100 00100000 01101001 01110011 00101110 01112010
 ```
 
 ---
@@ -61,4 +64,6 @@ location: "Somewhere between the void and the mainframe."
 
 ```diff
 @@ SYSTEM HIBERNATION: [INITIATING...] @@
+@@ SYSTEM DETECTED 117 ERROR [REBOOTING..] @@
+@@ CONTACTING CHIEF FOR SUPPORT [CONTACTING..] @@
 

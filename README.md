@@ -15,10 +15,13 @@ location: "Somewhere between the void and the mainframe."
     "projects": [
         "RPG Maker VX Ace Scripts",
         "ASCII RPG + ToonScape (Batch Runescape)",
-        "TDefense + TowerDefenseAP"
-        "Privacy_Search(Tor enhanced client)"
+        "DemonBlade RPG",
+        "TDefense + TowerDefenseAP",
+        "Privacy_Search(Tor enhanced client)",
         "Encrypted Lore Networks",
-        "Experimental Builds from the [Archive]"
+        "Experimental Builds from the [Archive]",
+        "The Shifting House [Horror Game]",
+        "Dark Souls IV: Actual Edition"
     ],
     "focus": [
         "Game Dev",

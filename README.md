@@ -3,8 +3,8 @@
 ```yaml
 # **// SYSTEM BOOT: WELCOME TO MY NEON GRID //**
 user: "CRYPTICTM99"
-status: "Executing high-level scripts across parallel instances."
-location: "Somewhere between the void and the mainframe."
+status: "Hobbyist game development and scripting for small creators"
+location: "Somewhere inbetween, trapped in the void"
 ```  
 ---
 
@@ -13,24 +13,24 @@ location: "Somewhere between the void and the mainframe."
 ```json
 {
     "projects": [
-        "RPG Maker VX Ace Scripts",
         "ASCII RPG + ToonScape (Batch Runescape)",
+        "Dark Souls IV: Actual Edition",
         "DemonBlade RPG",
-        "TDefense + TowerDefenseAP",
-        "Privacy_Search(Tor enhanced client)",
-        "Encrypted Lore Networks",
         "Experimental Builds from the [Archive]",
-        "The Shifting House [Horror Game]",
-        "Dark Souls IV: Actual Edition"
+        "Overlay FxDx v1.0",
+        "Privacy_Search(Tor enhanced client)",
+        "RPG Maker VX Ace Scripts",
+        "TDefense + TowerDefenseAP",
+        "3D Horror experiments"
     ],
     "focus": [
         "Game Dev",
         "Mod Scripting",
-        "Procedural Generation and raycasting",
-        "GamesDoneQuick platform"
+        "Learning Procedural Generation",
+        "SM64 mod work for small creators"
         "Narrative Engineering"
     ],
-    "status": "Bootstrapping lemon shards."
+    "status": "Bootstrapping more cherries? {what's the obsession with fruits?}"
 }
 ```
 
@@ -44,9 +44,10 @@ location: "Somewhere between the void and the mainframe."
 
 ```sh
 # Transmission Initialized...
-> Protocol Status: ACTIVE
-> System Stability: [ █ █ █ █ █ █ █ █ ░ ░ ░ ░ ]
-> AI Response: "Standing by. Carl broke it again"
+> Protocol Status: IDLE
+> Leaving room for growth: ACTIVE
+> System Stability: [ █ █ █ █ █ █ █ █ ░ ]
+> Response: "Carl managed to get the system stable, mainframe seems functional"
 ```
 
 ---
@@ -54,19 +55,23 @@ location: "Somewhere between the void and the mainframe."
 ## **// [ ACCESS LOGS ] //**
 
 ```log
-01010100 01101000 01101001 01110011 00100000 01101101 01100001 01111001 
-01101110 01101111 01110100 00100000 01100010 01100101 00100000 01110010 
-01100101 01100001 01101100 00101100 00100000 01100010 01110101 01110100 
-00100000 01101001 01110100 00100000 01101001 01110011 00101110 01112010
+01010011 01101111 01101101 01100101 00100000 01100100 01101111 01101111
+01110010 01110011 00100000 01101111 01101110 01101100 01111001 00100000
+01101111 01110000 01100101 01101110 00100000 01110111 01101000 01100101
+01101110 00100000 01111001 01101111 01110101 00100000 01110011 01110100
+01101111 01110000 00100000 01101011 01101110 01101111 01100011 01101011
+01101001 01101110 01100111 00101110
 ```
 
 ---
 
 ## **// [ ARCHIVE RETRIEVAL STATUS ] //**
-> "Fragments of past iterations are being recompiled into the mainframe. Old projects are being decrypted and migrated from the [Archive]. Expect structural recalibrations."
+> "Fragments of past iterations are being now recompiled. Old projects are found from the [Archive]. Bugs may occur."
 
 ```diff
 @@ SYSTEM HIBERNATION: [INITIATING...] @@
 @@ SYSTEM DETECTED 117 ERROR [REBOOTING..] @@
 @@ CONTACTING CHIEF FOR SUPPORT [CONTACTING..] @@
+@@ CHIEF IS BUSY [DOESN'T GIVE A FUCK] @@
+@@ FINDING SOMEONE WHO DOES [REROUTING...} @@
 

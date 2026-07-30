@@ -17,6 +17,7 @@ location: "Somewhere inbetween, trapped in the void"
         "Dark Souls IV: Actual Edition",
         "DemonBlade RPG",
         "Experimental Builds from the [Archive]",
+        "Link of Realms (0.3.6) - Gamelike jam #10 entry (Theme:Minecraft)"
         "Overlay FxDx v1.0",
         "Privacy_Search(Tor enhanced client)",
         "RPG Maker VX Ace Scripts",

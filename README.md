@@ -17,8 +17,11 @@ location: "Somewhere inbetween, trapped in the void"
         "Dark Souls IV: Actual Edition",
         "DemonBlade RPG",
         "Experimental Builds from the [Archive]",
+        "Fishing-DX (Sm64coopdx)",
+        "Fishing64 {WIP}",
         "Link of Realms (0.3.6) - Gamelike jam #10 entry (Theme:Minecraft)"
         "Overlay FxDx v1.0",
+        "Plumber's Quest64 (Sm64coopdx)",
         "Privacy_Search(Tor enhanced client)",
         "RPG Maker VX Ace Scripts",
         "TDefense + TowerDefenseAP",
@@ -29,9 +32,9 @@ location: "Somewhere inbetween, trapped in the void"
         "Mod Scripting",
         "Learning Procedural Generation",
         "SM64 mod work for small creators"
-        "Narrative Engineering"
+        "Narrative story building"
     ],
-    "status": "Bootstrapping more cherries? {what's the obsession with fruits?}"
+    "status": "Bootstrapping more watermelons? {what's the obsession with fruits?}"
 }
 ```
 
@@ -45,10 +48,10 @@ location: "Somewhere inbetween, trapped in the void"
 
 ```sh
 # Transmission Initialized...
-> Protocol Status: IDLE
+> Protocol Status: ACTIVE , INITIALIZING
 > Leaving room for growth: ACTIVE
-> System Stability: [ █ █ █ █ █ █ █ █ ░ ]
-> Response: "Carl managed to get the system stable, mainframe seems functional"
+> System Stability: [ █ █ █ █ █ █ █ ░ ]
+> Response: "Carl seems to be stuck working on RetroAchievement sets, distracted as always"
 ```
 
 ---
@@ -56,18 +59,18 @@ location: "Somewhere inbetween, trapped in the void"
 ## **// [ ACCESS LOGS ] //**
 
 ```log
-01010011 01101111 01101101 01100101 00100000 01100100 01101111 01101111
-01110010 01110011 00100000 01101111 01101110 01101100 01111001 00100000
-01101111 01110000 01100101 01101110 00100000 01110111 01101000 01100101
-01101110 00100000 01111001 01101111 01110101 00100000 01110011 01110100
-01101111 01110000 00100000 01101011 01101110 01101111 01100011 01101011
-01101001 01101110 01100111 00101110
+01010100 01101000 01100101 00100000 01110111 01100001 01101100
+01101100 01110011 00100000 01101011 01101110 01101111 01110111
+00100000 01110111 01101000 01100101 01101110 00100000 01111001
+01101111 01110101 00100000 01100001 01110010 01100101 00100000
+01110111 01100001 01110100 01100011 01101000 01101001 01101110
+01100111 00101110
 ```
 
 ---
 
 ## **// [ ARCHIVE RETRIEVAL STATUS ] //**
-> "Fragments of past iterations are being now recompiled. Old projects are found from the [Archive]. Bugs may occur."
+> "Bugs found within system sector, remember to proceed with caution"
 
 ```diff
 @@ SYSTEM HIBERNATION: [INITIATING...] @@
@@ -75,4 +78,4 @@ location: "Somewhere inbetween, trapped in the void"
 @@ CONTACTING CHIEF FOR SUPPORT [CONTACTING..] @@
 @@ CHIEF IS BUSY [DOESN'T GIVE A FUCK] @@
 @@ FINDING SOMEONE WHO DOES [REROUTING...} @@
-
+@@ LEAPING IN SOME RANDOM PROJECT [REROUTING...} @@
